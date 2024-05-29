@@ -1,0 +1,5 @@
+.project-description{
+    height:140px;
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+}
